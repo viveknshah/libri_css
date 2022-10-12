@@ -1,2 +1,4 @@
+[core]
+    hardlink_lock = true
 ['remote "origin"']
     url = https://dagshub.com/viveknshah/libri_css
